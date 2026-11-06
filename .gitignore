@@ -1,0 +1,26 @@
+# Rahasia (jangan pernah diunggah)
+*.pem
+*.key
+*.p12
+*.pfx
+.env*
+DDCMart-RAHASIA-Update/
+
+# Data operasional pelanggan dan backup
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+backups/
+logs/
+*.log
+
+# Kode sumber dan build tidak menjadi bagian repo update publik
+app/
+tools/
+tests/
+dist/
+.pyinstaller-work/
+Hasil/
+RilisOnline/
+*.zip
