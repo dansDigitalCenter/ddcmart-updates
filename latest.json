@@ -1,0 +1,10 @@
+{
+  "signed": {
+    "version": "0.9.3",
+    "url": "https://github.com/dansDigitalCenter/ddcmart-updates/releases/download/v0.9.3/DDCMart-Setup-v0.9.3.exe",
+    "sha256": "e16dc47971f99acdeb65968d206fd7ba0b10599a021330553351b7bdcddb7b2e",
+    "size": 31286303,
+    "notes": "DDCMart V0.9.3 - Pengaturan rapi dan cetak thermal langsung"
+  },
+  "signature": "oM0VpQ8bLtum6NcFrJT2Q7rc35IQWzTmu8QT3ix9cwM1xG9McO4TrMUqhyzcWQ+7s8xOHZeXfCve4KitHnMsDw=="
+}
