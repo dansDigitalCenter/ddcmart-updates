@@ -1,10 +1,10 @@
 {
   "signed": {
-    "version": "0.9.4",
-    "url": "https://github.com/dansDigitalCenter/ddcmart-updates/releases/download/v0.9.4/DDCMart-Setup-v0.9.4.exe",
-    "sha256": "0e022f05ea8b7eb82abe911cbada5bbd1206039ffefa6718ff6edae2dc0b2c7f",
-    "size": 34779062,
-    "notes": "DDCMart V0.9.4 - Progress unduhan, jendela instalasi, verifikasi EXE dan restart stabil"
+    "version": "1.0.0",
+    "url": "https://github.com/dansDigitalCenter/ddcmart-updates/releases/download/v1.0.0/DDCMart-Setup-v1.0.0.exe",
+    "sha256": "6317e075b23314e41c0d6e628e4fcadd802b049173bbf1b47d176dba6912a6bc",
+    "size": 34787417,
+    "notes": "DDCMart V1.0.0 - Progress unduhan, jendela instalasi, verifikasi EXE dan restart stabil"
   },
-  "signature": "mbiGs7FW6SPTzjP3xoVRVIDQk5mYPIf+6lRAWzJethZmGVNxrB5mjjDe/j3dslJwkNuWZJfjmJoe4RkpAe5wBQ=="
+  "signature": "nQm59e3BrvFJ+1aAydT6E0vEqnJhHB4Xrl7BxGpNAWx8JJ0YdB22OmLYPeP/Vt43lj2L9NasWzfsXI8A6PWnAQ=="
 }
